@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif" width="400"/>
-</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-glance&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
