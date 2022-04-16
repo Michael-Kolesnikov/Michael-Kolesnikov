@@ -18,10 +18,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif" width="400"/>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://vk.com/l_glance">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white" alt="Vk Badge"/>
-  </a>
-</div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-glance)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-glance&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
