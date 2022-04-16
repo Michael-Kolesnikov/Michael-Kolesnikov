@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href="https://vk.com/l_glance">
     <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white" alt="Vk Badge"/>
+    
+    <img src="https://komarev.com/ghpvc/?username=L-glance&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
