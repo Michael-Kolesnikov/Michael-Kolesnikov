@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/l_glance">
     <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white" alt="Vk Badge"/>
   </a>
