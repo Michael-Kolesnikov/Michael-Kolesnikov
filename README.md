@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif" width="400"/>
 </div>
+
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://vk.com/l_glance">
+    <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white" alt="Vk Badge"/>
+  </a>
 </div>
