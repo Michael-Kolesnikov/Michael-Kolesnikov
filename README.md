@@ -26,3 +26,4 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=L-glance&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-glance&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
