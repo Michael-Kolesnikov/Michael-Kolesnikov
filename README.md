@@ -27,4 +27,4 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=L-glance&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-glance)](https://github.com/L-glance/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-glance)](https://github.com/anuraghazra/github-readme-stats)
