@@ -15,16 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif" width="400"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://vk.com/l_glance">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=Vk&logoColor=white" alt="Vk Badge"/>
-  </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=L-glance&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-glance)](https://github.com/anuraghazra/github-readme-stats)
