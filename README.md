@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - С#
 ---
 ### :fire: My Stats :
