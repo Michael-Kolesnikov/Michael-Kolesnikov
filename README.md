@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### :man_technologist: About Me :
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" width="400" height="400" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150" height="150" />
 
 - 🌟🌟🌟🌟🌟🌟❤🌟🌟🌟🌟🌟🌟
 ---
