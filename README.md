@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Michael-Kolesnikov&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Kolesnikov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## My Contribution snake
+![Contribution snake example](https://github.com/Michael-Kolesnikov/Michael-Kolesnikov/blob/output/github-contribution-grid-snake-dark.svg)
